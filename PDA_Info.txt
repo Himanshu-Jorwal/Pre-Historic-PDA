@@ -1,0 +1,39 @@
+Tyrannosaurus Rex,Late Cretaceous,4.00,12.00,9000.00,Carnivore,Herd,Woodlands,North America,Most popular dinosaur in pop-culture, also known as the 'Tyrant Lizard'.
+Triceratops,Late Cretaceous,3.00,9.00,12000.00,Herbivore,Herd,Grasslands,North America,Known for its three facial horns and large frill.
+Velociraptor,Late Cretaceous,0.50,2.00,15.00,Carnivore,Herd,Deserts,Asia,Small but agile predator, popularized in movies.
+Brachiosaurus,Late Jurassic,12.00,25.00,50000.00,Herbivore,Herd,Forests,North America,Known for its long neck and towering height.
+Stegosaurus,Late Jurassic,4.00,9.00,3000.00,Herbivore,Herd,Woodlands,North America,Recognized by its distinctive plates and spiked tail.
+Allosaurus,Late Jurassic,3.50,8.50,2000.00,Carnivore,Herd,Forests,North America,A large predator known as a "lizard from different other dinosaurs."
+Spinosaurus,Late Cretaceous,5.00,15.00,7000.00,Carnivore,Herd,Rivers,North Africa,Possibly the largest carnivorous dinosaur, known for its sail-like structure.
+Ankylosaurus,Late Cretaceous,1.50,6.00,8000.00,Herbivore,Herd,Grasslands,North America,Known for its armored body and club-like tail.
+Diplodocus,Late Jurassic,5.00,25.00,10000.00,Herbivore,Herd,Forests,North America,A long-necked dinosaur known for its immense size.
+Iguanodon,Late Jurassic,3.00,10.00,5000.00,Herbivore,Herd,Woodlands,Europe,One of the first dinosaurs ever to be named, known for its thumb spike.
+Pachycephalosaurus,Late Cretaceous,1.50,4.00,450.00,Herbivore,Herd,Plains,North America,Known for its thick skull dome, believed to be used in head-butting.
+Therizinosaurus,Late Cretaceous,10.00,10.00,8000.00,Herbivore,Herd,Forests,Asia,A peculiar dinosaur known for its long claws and herbivorous diet.
+Parasaurolophus,Late Cretaceous,3.00,10.00,3000.00,Herbivore,Herd,Wetlands,North America,Recognized for its long, backward-curving cranial crest.
+Baryonyx,Late Cretaceous,2.50,8.00,1500.00,Carnivore,Herd,Swamps,Europe,A fish-eating dinosaur known for its long claws and crocodile-like snout.
+Giganotosaurus,Late Cretaceous,4.50,13.00,8000.00,Carnivore,Herd,Forests,South America,A giant theropod known for its large size and powerful build.
+Tyrannotitan,Late Cretaceous,4.00,12.00,7000.00,Carnivore,Herd,Grasslands,South America,A large predatory dinosaur with similarities to Tyrannosaurus rex.
+Maiasaura,Late Cretaceous,2.50,7.00,1500.00,Herbivore,Herd,Plains,North America,Known as the "good mother lizard" due to its nesting behavior.
+Hadrosaurus,Late Cretaceous,3.00,9.00,3000.00,Herbivore,Herd,Wetlands,North America,Known as the "duck-billed dinosaur" for its flat beak.
+Mamenchisaurus,Late Jurassic,22.00,35.00,60000.00,Herbivore,Herd,Forests,Asia,A long-necked dinosaur recognized for its extremely long neck.
+Kentrosaurus,Late Jurassic,2.00,6.00,1200.00,Herbivore,Herd,Woodlands,A smaller relative of Stegosaurus, known for its plates and spikes.
+Ornithomimus,Late Cretaceous,3.00,10.00,2000.00,Herbivore,Herd,Plains,North America,A fast-running dinosaur resembling an ostrich.
+Corythosaurus,Late Cretaceous,3.00,9.00,4000.00,Herbivore,Herd,Wetlands,North America,Known for its elaborate cranial crest used in communication.
+Troodon,Late Cretaceous,1.20,2.00,50.00,Omnivore,Herd,Forests,North America,A small, intelligent dinosaur believed to have had keen eyesight.
+Dreadnoughtus,Late Cretaceous,13.00,26.00,65000.00,Herbivore,Herd,Forests,South America,One of the largest dinosaurs known, recognized for its size and weight.
+Styracosaurus,Late Cretaceous,3.00,8.00,6000.00,Herbivore,Herd,Grasslands,North America,Known for its large frill and distinctive facial horns.
+Ceratopsian,Late Cretaceous,3.00,6.00,2500.00,Herbivore,Herd,Plains,North America,A group known for their beak-like mouths and facial horns.
+Nodosaurus,Late Cretaceous,3.00,10.00,4000.00,Herbivore,Herd,Grasslands,North America,A heavily armored dinosaur known for its spiked back.
+Utahraptor,Late Cretaceous,2.00,7.00,1000.00,Carnivore,Herd,Deserts,North America,A large raptor known for its impressive size and hunting skills.
+Eoraptor,Late Triassic,1.00,1.50,70.00,Carnivore,Herd,Forests,South America,One of the earliest known dinosaurs, small and nimble.
+Lambeosaurus,Late Cretaceous,3.00,9.00,3500.00,Herbivore,Herd,Wetlands,North America,Known for its distinctive crest, believed to be used for communication.
+Sauropelta,Late Cretaceous,2.00,6.00,1500.00,Herbivore,Herd,Grasslands,North America,A herbivorous dinosaur known for its body armor and spikes.
+Choyrodon,Late Cretaceous,2.00,6.00,500.00,Herbivore,Herd,Forests,Asia,A small herbivorous dinosaur recognized for its unique teeth.
+Plesiosaurus,Late Cretaceous,4.00,10.00,1000.00,Carnivore,Herd,Oceans,Europe,A marine reptile known for its long neck and small head.
+Alamosaurus,Late Cretaceous,12.00,25.00,40000.00,Herbivore,Herd,Forests,North America,A massive sauropod known from fossilized remains found in North America.
+Suchomimus,Late Cretaceous,4.00,11.00,2000.00,Carnivore,Herd,Rivers,Africa,A fish-eating dinosaur known for its crocodile-like features.
+Deinonychus,Late Cretaceous,1.80,3.00,70.00,Carnivore,Herd,Forests,North America,A fast and agile predator, known for its sickle-like claws.
+Carcharondontosaurus,Late Cretaceous,4.50,13.00,8000.00,Carnivore,Herd,Deserts,North Africa,A large therapod commonly known as "shark-toothed-lizard".
+Albertosaurus,Late Cretaceous,3.50,9.00,2000.00,Carnivore,Herd,Forests,North America,A smaller relative of Tyrannosaurus Rex, known for it's speed.
+Indominus Rex,Modern,5.00,17.00,8500.00,Carnivore,Solitary,Captivity,None,A genetically made hybrid with Tyrannosaurus Rex genome as base.
